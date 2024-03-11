@@ -1,3 +1,7 @@
 print("Hello");
 print("One knee One Dee");
-print("SawaseDee")
+print("SawaseDee");
+
+print("Hello");
+print("One knee One Dee");
+print("SawaseDee");
