@@ -10,4 +10,4 @@ print("Hello");
 print("One knee One Dee");
 print("SawaseDee");
 
-print("ddsds");
+print("ๅ/-ๅ/-ๅ-ๅ/-กหฟกฟ");
